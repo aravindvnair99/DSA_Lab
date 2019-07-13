@@ -2,7 +2,7 @@
 #include<stdlib.h>
 
 int main(){
- 
+
    int n,i,j,*a,temp;
    printf("Enter the no. of elements: ");
    scanf("%d",&n);
